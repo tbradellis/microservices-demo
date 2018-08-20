@@ -5,6 +5,7 @@ import io.pivotal.microservices.services.registration.RegistrationServer;
 import io.pivotal.microservices.services.web.WebServer;
 
 /**
+ * Test Change
  * Allow the servers to be invoked from the command-line. The jar is built with
  * this as the <code>Main-Class</code> in the jar's <code>MANIFEST.MF</code>.
  * 
